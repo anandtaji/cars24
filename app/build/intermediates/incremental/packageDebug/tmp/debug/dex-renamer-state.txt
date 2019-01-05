@@ -1,0 +1,4 @@
+#Sat Jan 05 17:45:02 IST 2019
+base.0=/home/anand/Desktop/car24/cars24-3D-model-viewer/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
